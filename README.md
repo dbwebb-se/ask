@@ -1,6 +1,8 @@
-# feedback
+# ask
 
-To provide feedback to students from assignments.
+(implementation not started)
+
+Questionares as assignments.
 
 ```
 $ npm install
